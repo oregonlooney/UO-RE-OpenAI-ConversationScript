@@ -2,11 +2,15 @@
 
 ## Introduction
 
-This project represents an integration of OpenAI's GPT-3 with Ultima Online, a classic 2D isometric RPG. It forms the base code for an AI-powered conversation agent that interacts with players within the game.
+This project represents an integration of OpenAI's API with Ultima Online, a classic 2D isometric RPG. It forms the base code for an AI-powered conversation agent that interacts with players within the game.
 
 ## Purpose
 
 The primary goal of creating this agent was to experiment with Generative AI NPC agents, exploring the possibilities of enhancing game interaction through cutting-edge AI technology. By embedding an AI-driven character within Ultima Online, players can engage in more immersive and dynamic conversations.
+
+## Instructions
+
+Add the script to the Razor Enhanced Script menu and add your own OpenAI API key, player names, and keywords.
 
 ## Technical Details
 
@@ -27,8 +31,6 @@ The agent can be configured to respond to specific players or predefined keyword
 - Real-time conversation with players using OpenAI's GPT-3.5-turbo model
 - Ability to respond to specific players or keywords
 - Configurable personality and behavior
-- Compatibility with the Razor Enhanced Plugin
-- Designed to work within the limitations of IronPython 3.4
 
 ## Usage
 

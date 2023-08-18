@@ -24,7 +24,7 @@ Due to the limitations of the IronPython 3.4 environment, the implementation doe
 
 ### Response Mechanism
 
-The agent can be configured to respond to specific players or predefined keywords. Its conversational behavior, personality, and alignment can be easily customized, making it suitable for various game scenarios.
+The agent can be configured to respond to specific players or predefined keywords. It will remember conversations and which player instigated them for a short period of time. 
 
 ## Features
 
